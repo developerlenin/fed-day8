@@ -1,0 +1,47 @@
+.container{
+    outline: solid 1px; 
+    color: black;
+    margin-left: 40px;
+    margin-right: 40px;
+
+    
+
+}
+.heading-item{
+    display: flex;
+    justify-content: space-between;
+
+}
+.heaing-name{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 20px;
+}
+.heading-nav ul li{
+    display: inline-block;
+    padding-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 20px
+
+}
+.heading-nav ul li button{
+    background: #ed502e;
+    border-radius: 10px;
+    font-size: 21px;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+}
+.banner-text p{
+    width: 50%;
+    font-size: 20px;
+}
+.banner-text h1{
+    font-size: 40px;
+}
+.banner-text button{
+    padding: 15px;
+    font-size: 10px;
+}
+
